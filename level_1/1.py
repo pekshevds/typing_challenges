@@ -1,8 +1,8 @@
-import constants
+from constants import USER_BANNED_LIST
 
 
 def is_user_banned(user_id: int) -> bool:
-    return user_id in constants.USER_BANNED_LIST
+    return user_id in USER_BANNED_LIST
 
 
 if __name__ == "__main__":
