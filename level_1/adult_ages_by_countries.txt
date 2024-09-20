@@ -1,0 +1,189 @@
+Egypt	21
+Madagascar	21
+Ivory Coast	21
+Cameroon	21
+United Arab Emirates	21
+Honduras	21
+Singapore	21
+Kuwait	21
+Namibia	21
+Gabon	21
+Lesotho	21
+Bahrain	21
+Eswatini	21
+Samoa	21
+Grenada	21
+Japan	20
+Thailand	20
+New Zealand	20
+South Korea	19
+Algeria	19
+India	18
+China	18
+United States	18
+Pakistan	18
+Nigeria	18
+Brazil	18
+Bangladesh	18
+Russia	18
+Ethiopia	18
+Mexico	18
+Philippines	18
+DR Congo	18
+Turkey	18
+Germany	18
+United Kingdom	18
+Tanzania	18
+France	18
+South Africa	18
+Italy	18
+Kenya	18
+Colombia	18
+Sudan	18
+Uganda	18
+Spain	18
+Iraq	18
+Argentina	18
+Afghanistan	18
+Canada	18
+Poland	18
+Morocco	18
+Angola	18
+Ukraine	18
+Uzbekistan	18
+Malaysia	18
+Mozambique	18
+Ghana	18
+Peru	18
+Nepal	18
+Venezuela	18
+Niger	18
+Australia	18
+Syria	18
+Mali	18
+Burkina Faso	18
+Taiwan	18
+Sri Lanka	18
+Malawi	18
+Kazakhstan	18
+Chad	18
+Chile	18
+Romania	18
+Senegal	18
+Guatemala	18
+Netherlands	18
+Ecuador	18
+Zimbabwe	18
+Guinea	18
+Benin	18
+Rwanda	18
+Burundi	18
+Bolivia	18
+Tunisia	18
+South Sudan	18
+Haiti	18
+Belgium	18
+Jordan	18
+Dominican Republic	18
+Czech Republic	18
+Sweden	18
+Tajikistan	18
+Papua New Guinea	18
+Portugal	18
+Azerbaijan	18
+Greece	18
+Hungary	18
+Togo	18
+Israel	18
+Austria	18
+Belarus	18
+Switzerland	18
+Sierra Leone	18
+Laos	18
+Turkmenistan	18
+Libya	18
+Paraguay	18
+Nicaragua	18
+Bulgaria	18
+Serbia	18
+El Salvador	18
+Republic of the Congo	18
+Denmark	18
+Lebanon	18
+Finland	18
+Liberia	18
+Norway	18
+Slovakia	18
+Palestine	18
+Central African Republic	18
+Oman	18
+Ireland	18
+Mauritania	18
+Costa Rica	18
+Panama	18
+Croatia	18
+Georgia	18
+Eritrea	18
+Mongolia	18
+Uruguay	18
+Bosnia and Herzegovina	18
+Qatar	18
+Moldova	18
+Armenia	18
+Lithuania	18
+Jamaica	18
+Albania	18
+Gambia	18
+Botswana	18
+Guinea Bissau	18
+Slovenia	18
+Equatorial Guinea	18
+Latvia	18
+Trinidad and Tobago	18
+Estonia	18
+Cyprus	18
+Mauritius	18
+Djibouti	18
+Fiji	18
+Comoros	18
+Guyana	18
+Solomon Islands	18
+Bhutan	18
+Luxembourg	18
+Montenegro	18
+Suriname	18
+Malta	18
+Maldives	18
+Cape Verde	18
+Brunei	18
+Belize	18
+Bahamas	18
+Iceland	18
+Vanuatu	18
+Barbados	18
+Sao Tome and Principe	18
+Saint Lucia	18
+Seychelles	18
+Micronesia	18
+Tonga	18
+Saint Vincent and the Grenadines	18
+Antigua and Barbuda	18
+Andorra	18
+Dominica	18
+Saint Kitts and Nevis	18
+Liechtenstein	18
+Monaco	18
+San Marino	18
+Palau	18
+Nauru	18
+North Korea	17
+Timor Leste	17
+Vietnam	16
+Myanmar	16
+Cambodia	16
+Cuba	16
+Kyrgyzstan	16
+Indonesia	15
+Yemen	15
+Saudi Arabia	15
+Iran	9
