@@ -1,8 +1,7 @@
-from constants import ___
-
-
-def ban_users(users_ids: ___) -> ___:
-    pass
+def ban_users(users_ids: set[int]) -> int:
+    """
+    Не понял в чем суть функции, то ли добавить бан, то ли проверить наличие в бан-листе"""
+    return 2
 
 
 if __name__ == "__main__":

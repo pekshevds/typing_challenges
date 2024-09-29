@@ -1,8 +1,5 @@
-from constants import ___
-
-
-def is_name_male(name: ___, name_gender_map: ___) -> ___:
-    pass
+def is_name_male(name: str, name_gender_map: dict[str, bool]) -> bool | None:
+    return name_gender_map.get(name)
 
 
 if __name__ == "__main__":

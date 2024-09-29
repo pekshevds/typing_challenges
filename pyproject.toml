@@ -7,8 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-mypy = "^1.11.2"
 
+[tool.poetry.group.linters.dependencies]
+mypy = "^1.11.2"
 
 [build-system]
 requires = ["poetry-core"]
